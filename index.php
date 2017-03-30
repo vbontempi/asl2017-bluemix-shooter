@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>ASL 2017 - Space Shooter </title>
+		<title>Space Shooter </title>
 		<?php
      //include a javascript file
    echo "<script type='text/javascript' src='phaser.min.js'></script>";
