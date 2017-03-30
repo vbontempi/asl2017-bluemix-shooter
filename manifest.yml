@@ -1,6 +1,7 @@
 applications:
 - disk_quota: 1024M
   buildpack: php_buildpack
+  host: asl2017-bluemix-shooter
   name: asl2017-bluemix-shooter
   path: .
   instances: 1

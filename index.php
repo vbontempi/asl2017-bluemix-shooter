@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Space Shooter </title>
+		<title>ASL 2017 - Space Shooter </title>
 		<?php
      //include a javascript file
    echo "<script type='text/javascript' src='phaser.min.js'></script>";
@@ -9,8 +9,8 @@
 		<style type="text/css">
 		body {
 			margin: 0px;
-			padding: 0px;	
-			background: url("bg_stars.png") no-repeat center center fixed; 	
+			padding: 0px;
+			background: url("bg_stars.png") no-repeat center center fixed;
 			-webkit-background-size: cover;
 			-moz-background-size: cover;
 			-o-background-size: cover;
